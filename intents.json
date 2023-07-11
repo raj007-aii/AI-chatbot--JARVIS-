@@ -1,0 +1,19 @@
+{
+    "intents":[   
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","jarvis","yo jarvis","wake up jarvis"],
+            "responses":["Hello sir","what's up","Namaste","hello sir How are you","how may is help you"]
+        },
+        {
+            "tag":"breakup",
+            "patterns":["bye","sleep jarvis","take a rest","bye jarvis","exit"],
+            "responses":["Bye sir","have a good day","Aalvida","see you leter"]
+        },
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","jarvis"],
+            "responses":["Hello sir","what's up","Namaste","hello sir How are you","how may is help you"]
+        }
+    ]
+}
